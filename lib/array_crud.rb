@@ -4,7 +4,7 @@ end
 
 def create_an_array 
   
- [hearts, coffee, napping, coding]
+ [ hearts, coffee, napping, coding ]
  
 end
 
