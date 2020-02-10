@@ -4,9 +4,7 @@ end
 
 def create_an_array 
   
-  #I have created an array with 4 elements inside, yet still gives me a failure, I have tried other ways to create an array by setting a variable & using the class constructor, yet still doesnt pass 
-
- [hearts,coffee,napping,coding]
+ [hearts, coffee, napping, coding]
  
 end
 
