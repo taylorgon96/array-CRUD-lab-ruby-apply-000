@@ -4,7 +4,7 @@ end
 
 def create_an_array 
   
- array = [ruby, coffee, napping, coding]
+ array.new "ruby, coffee, napping, coding"
  
 end
 
