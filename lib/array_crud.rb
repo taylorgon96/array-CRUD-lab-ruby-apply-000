@@ -4,7 +4,7 @@ end
 
 def create_an_array 
   
- array = [hearts, coffee, napping, coding]
+ array = [heart, coffee, napping, coding]
  
 end
 
